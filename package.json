@@ -13,7 +13,7 @@
     "lint:ci": "eslint src/**/*.js --max-warnings=0",
     "lint:fix": "eslint --fix src/**/*.js",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -m '[ci skip] Updates'"
+    "deploy": "gh-pages -b pete-dev -d build -m '[ci skip] Updates'"
   },
   "dependencies": {
     "@polkadot/api": "~3.3.2",

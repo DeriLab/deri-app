@@ -7,8 +7,7 @@ app for deri-chain
 You can start the template in development mode to connect to a locally running node
 
 ```bash
-yarn install
-yarn start
+yarn install && yarn start
 ```
 
 You can also build the app in production mode,
@@ -23,3 +22,5 @@ and open `build/index.html` in your favorite browser.
 yarn config set httpProxy "http://127.0.0.1:1082"; yarn config set httpsProxy "http://127.0.0.1:1082"
 yarn config delete httpProxy ; yarn config delete httpsProxy
 ```
+yarn deploy
+
