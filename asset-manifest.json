@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/deri-app/static/js/main.d3ccd21d.chunk.js",
-    "main.js.map": "/deri-app/static/js/main.d3ccd21d.chunk.js.map",
+    "main.js": "/deri-app/static/js/main.61e79054.chunk.js",
+    "main.js.map": "/deri-app/static/js/main.61e79054.chunk.js.map",
     "runtime-main.js": "/deri-app/static/js/runtime-main.dba56fc2.js",
     "runtime-main.js.map": "/deri-app/static/js/runtime-main.dba56fc2.js.map",
     "static/css/2.f7573518.chunk.css": "/deri-app/static/css/2.f7573518.chunk.css",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.dba56fc2.js",
     "static/css/2.f7573518.chunk.css",
     "static/js/2.ccd57497.chunk.js",
-    "static/js/main.d3ccd21d.chunk.js"
+    "static/js/main.61e79054.chunk.js"
   ]
 }
