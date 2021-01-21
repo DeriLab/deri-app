@@ -1,5 +1,5 @@
 {
   "APP_NAME": "deri-app",
-  "DEVELOPMENT_KEYRING": true,
+  "DEVELOPMENT_KEYRING": false,
   "RPC": {}
 }

@@ -1,4 +1,5 @@
 {
   "Address": "MultiAddress",
-  "LookupSource": "MultiAddress"
+  "LookupSource": "MultiAddress",
+  "BlockLength": "u32"
 }
